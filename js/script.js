@@ -1,13 +1,16 @@
 type="text/javascript"
       // place your images in this array
       var random_images_array = [
+        "a_window.png",
+        "an_idea.png",
+        "mars_bar.png",
+        "tesla.png",
         "cat_tissue.png",
         "empty_wallet.png",
         "uranium.png",
         "tiny_fridge.png",
         "funghi.png",
         "canary.png",
-
       ];
 
       function getRandomImage(imgAr) {
