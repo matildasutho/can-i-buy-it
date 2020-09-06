@@ -6,7 +6,7 @@ header img {
 body {
     height: 100%;
     width: 100%;
-    background-color: #3f9c85;
+    background-color: white;
     text-align: center;
     color: black;
 }
@@ -14,15 +14,19 @@ button {
     color: #000000;
     border: 3px solid black;
     width: 200px;
-    height: 30px;
+    height: 50px;
     font-size: 20px;
+    font-weight: 3px;
     background-color: yellow;
-    position: relative;
+    position: center;
+    bottom: 15%;
+
+  
 }
 button:hover {
     cursor: crosshair;
-    background-color: whitesmoke;
-    transition: ease-in-out 0.3s;
+    background-color: greenyellow;
+    transition: ease-in-out 0.5s;
   }
 #myImg {
     border-radius: 5px;
