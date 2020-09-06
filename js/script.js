@@ -10,6 +10,7 @@ type="text/javascript"
         "tiny_fridge.png",
         "funghi.png",
         "canary.png",
+        "empty_wallet.png",
       ];
 
 
